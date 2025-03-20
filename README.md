@@ -9,7 +9,7 @@
 - **Languages**: C, C++
 
 ## Contact
-- 💼 [LinkedIn](https://in.linkedin.com/in/shubham-malas-0474a5107)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-malas/)
 
 <!---
 ShubhamMalas/ShubhamMalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
