@@ -7,9 +7,6 @@
 
 ## Skills
 - **Languages**: C, C++
-- **Operating Systems**: Linux
-- **Development**: Kernel Development
-
 
 ## Contact
 - 💼 [LinkedIn](https://in.linkedin.com/in/shubham-malas-0474a5107)
