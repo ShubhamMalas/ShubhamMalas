@@ -15,6 +15,20 @@ int main() {
     }
     // Write some data to the file
     fprintf(file, "Hello, World!\n");
+
+    //read from the file and write it to stdout
+    // Open the file for reading
+    file = fopen(filename, "r");
+    if (file == NULL) {
+        perror("Error opening file for reading");
+        return EXIT_FAILURE;
+    }
+    // Read from the file and write to stdout
+    char buffer[1024];
+    while (fgets(buffer, sizeof(buffer), file)) {
+        fputs(buffer, stdout);
+    }
+    
     // Close the file
     fclose(file);
     return EXIT_SUCCESS;
